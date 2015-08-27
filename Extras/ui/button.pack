@@ -1,0 +1,131 @@
+
+button.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+main_menu
+  rotate: false
+  xy: 0, 149
+  size: 205, 346
+  orig: 205, 346
+  offset: 0, 0
+  index: -1
+ready_menu
+  rotate: false
+  xy: 206, 324
+  size: 358, 171
+  orig: 358, 171
+  offset: 0, 0
+  index: -1
+start_label
+  rotate: false
+  xy: 206, 261
+  size: 334, 62
+  orig: 334, 62
+  offset: 0, 0
+  index: -1
+new_wall_mdpi
+  rotate: false
+  xy: 565, 115
+  size: 80, 380
+  orig: 80, 380
+  offset: 0, 0
+  index: -1
+button_style
+  rotate: false
+  xy: 0, 109
+  size: 126, 39
+  orig: 126, 39
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: false
+  xy: 646, 433
+  size: 53, 62
+  orig: 53, 62
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 206, 198
+  size: 50, 62
+  orig: 50, 62
+  offset: 0, 0
+  index: -1
+coin6
+  rotate: false
+  xy: 0, 47
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: false
+  xy: 646, 365
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+coin5
+  rotate: false
+  xy: 646, 297
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+bird1
+  rotate: false
+  xy: 700, 447
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+bird3
+  rotate: false
+  xy: 206, 150
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+bird5
+  rotate: false
+  xy: 257, 213
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+bird2
+  rotate: false
+  xy: 0, 0
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+bird4
+  rotate: false
+  xy: 51, 61
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 127, 111
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+resume
+  rotate: false
+  xy: 739, 458
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+coin4
+  rotate: false
+  xy: 646, 228
+  size: 6, 68
+  orig: 6, 68
+  offset: 0, 0
+  index: -1
